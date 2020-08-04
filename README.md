@@ -32,15 +32,6 @@ module.exports = {
 };
 ```
 
-## App Info
-
-### Author
-
-Urjit Shah
-
-### Version
-
-1.0.0
 
 ### License
 
