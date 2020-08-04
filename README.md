@@ -1,8 +1,6 @@
-# DevConnector
+# DevMedia
 
 > Small social network app built with the MERN stack.
-
-IMPORTANT - The latest version is at https://github.com/urjit2498/DevConnector
 
 ## Quick Start
 
